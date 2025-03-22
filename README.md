@@ -9,6 +9,7 @@ To enhance usability, HealthSnap includes an integrated chatbot for instant supp
 3.  Then to download all the dependencies you need to run: npm install
 4.  npm start
 5.  Scan the qr code on Expo go application to run application on mobile
-   For better use when download the project first delete package.lock.json file  and node_modules
+
+ For better use when download the project first delete package.lock.json file  and node_modules
 
  
